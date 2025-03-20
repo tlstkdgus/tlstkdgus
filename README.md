@@ -1,3 +1,3 @@
 <div align = "center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={tlstkdgus})
+ <img src="https://github-readme-stats.vercel.app/api?username=tlstkdgus&show_icons=true&theme=radical" />
 </div>
