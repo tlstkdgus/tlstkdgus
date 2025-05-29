@@ -1,4 +1,3 @@
-<div align = "center">
- <img src="https://github-readme-stats.vercel.app/api?username=tlstkdgus&show_icons=true&theme=radical" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlstkdgus&layout=compact"/>
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sanghyeon%20Github!&fontSize=90" />	
 </div>
