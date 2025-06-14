@@ -17,7 +17,5 @@
      	<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" />
 </div>
 <div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlstkdgus&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=tlstkdgus&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api?username=tlstkdgus&show_icons=true">
 </div>
