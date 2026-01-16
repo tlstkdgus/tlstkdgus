@@ -16,6 +16,3 @@
     	<img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styled-components&logoColor=white" />
      	<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" />
 </div>
-<div align=center>
-	<img src="https://github-readme-stats.vercel.app/api?username=tlstkdgus&show_icons=true">
-</div>
