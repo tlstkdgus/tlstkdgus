@@ -22,8 +22,10 @@
 <br/>
 
 <div align="center">
-	
-![Sanghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlstkdgus&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tlstkdgus&theme=radical)](https://github.com/tlstkdgus)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tlstkdgus&theme=radical&no-frame=true&row=1&column=6)](https://github.com/tlstkdgus)
 
 </div>
 
