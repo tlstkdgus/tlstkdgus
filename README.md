@@ -13,14 +13,11 @@
 	<br/>
    	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.jslogoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-    	<img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styled-components&logoColor=white" />
-     	<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tlstkdgus&show_icons=true&theme=radical">
-
-<a href="https://github.com/tlstkdgus">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tlstkdgus&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
-</a>
-
+    <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styled-components&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" />
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tlstkdgus&show_icons=true&theme=radical" />
+	<a href="https://github.com/tlstkdgus">
+  		<img src="https://github-readme-activity-graph.vercel.app/graph?username=tlstkdgus&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
+	</a>
 </div>
 
