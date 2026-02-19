@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sanghyeon%20Github&fontSize=90" />	
 </div>
 
-> **Info**
+## 👋 Info:
 
 - **이름** : 신상현  
 - **최종 학력** : 한국외국어대학교 Global Business & Technology
@@ -11,19 +11,6 @@
 - **Tel** : 010-9194-5840  
 - **E-mail** : tlstkdgus9@naver.com 
 
-> Contact
-
-<div align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
-  <a href="mailto:fhddl1019@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
-  </a>
-  <a href="mailto:fhddl1019@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/lyerimi00">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
 
 <br />
 
@@ -50,12 +37,17 @@
 <br/>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tlstkdgus&theme=radical)](https://github.com/tlstkdgus)
-
+	[![GitHub Streak](https://streak-stats.demolab.com/?user=tlstkdgus&theme=radical)](https://github.com/tlstkdgus)
 </div>
 
 <br/>
+
+<div align=center>
+	<h3>📂 Projects 📚</h3>
+	- 2025.07.30 : **서울 AI 허브 X Sprint Pick Your Idea 🏆 우수상**
+	- 2025.08.29 : **카카오뱅크 X 한국핀테크지원센터 FIN:NECT 🏆 장려상**
+</div>
+
 
 <div align="center">
 	<a href="https://github.com/tlstkdgus">
