@@ -16,3 +16,11 @@
     	<img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styled-components&logoColor=white" />
      	<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b5b5b,10:5b5b5b,30:5b5b5b,75:5b5b5b,100:5b5b5b&height=40&section=footer&text=&fontSize=0" width="100%"/>
+
+<div align="center">
+
+<a href="https://github.com/tlstkdgus">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tlstkdgus&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
+</a>
