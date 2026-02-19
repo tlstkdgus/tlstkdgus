@@ -16,9 +16,8 @@
     <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styled-components&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" />
 </div>
+![Sanghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlstkdgus&show_icons=true&theme=radical)
 <div align="center>
-	![Sanghyeon's GitHub stats]
-	(https://github-readme-stats.vercel.app/api?username=tlstkdgus&show_icons=true&theme=radical)
 	<a href="https://github.com/tlstkdgus">
   		<img src="https://github-readme-activity-graph.vercel.app/graph?username=tlstkdgus&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
 	</a>
