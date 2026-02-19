@@ -17,7 +17,6 @@
      	<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b5b5b,10:5b5b5b,30:5b5b5b,75:5b5b5b,100:5b5b5b&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 <div align="center">
 
