@@ -43,7 +43,7 @@
 ## 👋 Info
 
 - **이름** : 신상현  
-- **최종 학력** : 한국외국어대학교 Global Business & Technology / 한국외국어대학교 AI 교육원 AI 융합전공 Software & AI 트랙
+- **최종 학력** : 한국외국어대학교 Global Business & Technology / 한국외국어대학교 AI 융합전공 Software & AI 트랙
 - **현 소속** : SSAFY 15기
 - **Location** : Seoul, South Korea  
 - **Tel** : 010-9194-5840  
@@ -103,9 +103,6 @@
 - 식단교환표 기반 혈당 및 식단 관리 서비스, Meal당 - **기획, 디자인, FE**
 - AI 기반 면접 어플, AInterview - **기획, 디자인, FE**
 
-## 2021
-- 경상대학 학생회 - 대외협력국 차장
-- 에어토리 마케팅 전략 기획 및 개선 프로젝트
 
 
 
