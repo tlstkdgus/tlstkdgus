@@ -49,7 +49,7 @@
 - **Tel** : 010-9194-5840  
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?logo=Instagram&logoColor=white)](https://instagram.com/01__ssh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/신상현) [![email](https://img.shields.io/badge/Naver-03C75A?logo=Naver&logoColor=white)](mailto:tlstkdgus9@naver.com)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?logo=Instagram&logoColor=white)](https://instagram.com/01__ssh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/신상현) [![email](https://img.shields.io/badge/Naver-03C75A?logo=Naver&logoColor=white)](mailto:tlstkdgus9@naver.com) [![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)](https://purring-spruce-5a2.notion.site/26f62cd6363f80f6a37bcdfcf8ee9dbd?pvs=74)
 
 
 
@@ -63,11 +63,13 @@
 
 
 ## 🏆 Awards
-- 2025.12.22 : KIITI 한국정보기술전략혁신학회 아이디어/앱 콘테스트 - **우수상(기획, 디자인, FE)**
-- 2025.11.20 : G-RISE X 경상대학 2025 창업 비즈니스 모델 경진대회 - **대상(기획)**
-- 2025.08.29 : 카카오뱅크 X 한국핀테크지원센터 FIN:NECT - **장려상 (기획)**
+- 2025.12.23 : 제 12회 Bring Your Own Ideas - **최우수상(기획, 디자인, FE)**
+- 2025.12.05 : 제 1회 G-RISE 창업경진대회 - **최우수상(기획, 디자인)**
+- 2025.11.30 : KIITI 한국정보기술전략혁신학회 아이디어/앱 콘테스트 - **우수상(기획, 디자인, FE)**
+- 2025.11.20 : 2025 G-RISE X 경상대학 창업 비즈니스 모델 경진대회 - **대상(기획)**
+- 2025.08.29 : 한국핀테크지원센터 X 카카오뱅크 FIN:NECT - **장려상 (기획)**
 - 2025.08.22 : 2025-1 HUFStudy - **최우수상(기획, 디자인, FE)**
-- 2025.07.30 : 서울 AI 허브 X Sprint Pick Your Idea - **우수상 (기획)**
+- 2025.07.30 : 서울 AI 허브 X Sprint "PICK YOUR IDEA" - **우수상 (기획)**
 - 2025.06.25 : 2025 창업캠프 실전 IR 피칭 경진대회 - **최우수상 (기획)**
 - 2025.06.21 : HUFS H-UP 진로탐색학점제 - **진리상[최우수상] (디자인, FE)**
 - 2025.03.06 : HUFS Start-up Platform 학생창업팀 - **선발**
@@ -81,18 +83,22 @@
 - 에어비앤비 청소 매칭 플랫폼 CleanB - **PM, 디자인**
 
 ## 2025
-### 한국외국어대학교 멋쟁이사자처럼 13기
+### 한국외국어대학교 멋쟁이사자처럼 13기 (2025.01 ~ 2025.12)
 - 한국외국어대학교 멋쟁이사자처럼 13기 **FE 운영진**
 - 한국외국어대학교 멋쟁이사자처럼 홈페이지 - **기획, 디자인, FE Lead**
 - MBTI로 소통하는 공간, MBTI 커뮤니티, 16P!ay - **기획, 디자인, FE Lead**
 - AI 기반 약관 및 위험 알림 서비스, TCP - **기획**
 - AI 기반 경기도 지역화폐 가맹점 추천 서비스, Y:Wave - **기획, 디자인, FE Lead**
-- 풍생고등학교 코딩 교육 봉사 - FE
-### CHALLKATHON Hackathon
+### 풍생고등학교 코딩 교육 봉사 (2025.03 ~ 2025.11) 
+- HTML, CSS, JS, React - FE 교육
+- Figma, Notion - 프로젝트 기획 교육
+- 풍생고등학교 수행평가 알리미 실습 진행
+- 3학년 2반 대상 실사용 진행 및 QA 
+### CHALLKATHON Hackathon (2025.06)
 - AI 기반 개인 맞춤형 커리어 멘토링 서비스, hai - **기획, FE**
-### GRAFFITI 2025: AI Startup Festival & Hackathon
+### GRAFFITI 2025: AI Startup Festival & Hackathon (2025.07)
 - AI 기반 마취 안전 보조 시스템, NeuroSight - **기획**
-### K-HTML Hackathon
+### K-HTML Hackathon (2025.07 ~ 08)
 - AI 기반 알뜰 지출관리 플랫폼, R-Zi - **기획, 디자인, FE**
 
 ## 2024
