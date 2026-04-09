@@ -64,7 +64,7 @@
 - **Tel** : 010-9194-5840  
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?logo=Instagram&logoColor=white)](https://instagram.com/01__ssh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/신상현) [![email](https://img.shields.io/badge/Naver-03C75A?logo=Naver&logoColor=white)](mailto:tlstkdgus9@naver.com) [![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)](https://purring-spruce-5a2.notion.site/26f62cd6363f80f6a37bcdfcf8ee9dbd?pvs=74)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?logo=Instagram&logoColor=white)](https://instagram.com/01__ssh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/신상현) [![email](https://img.shields.io/badge/Naver-03C75A?logo=Naver&logoColor=white)](mailto:tlstkdgus9@naver.com) [![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)](https://purring-spruce-5a2.notion.site/26f62cd6363f80f6a37bcdfcf8ee9dbd?pvs=74) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=tlstkdgus)](https://velog.io/@tlstkdgus)
 
 
 
