@@ -39,6 +39,14 @@
 	</a>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tlstkdgus/tlstkdgus/main/.github/images/github-contribution-grid-pacman-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tlstkdgus/tlstkdgus/main/.github/images/github-contribution-grid-pacman.svg" />
+    <img alt="GitHub Pac-Man contribution graph" src="https://raw.githubusercontent.com/tlstkdgus/tlstkdgus/main/.github/images/github-contribution-grid-pacman.svg" />
+  </picture>
+</div>
+
 
 ## 👋 Info
 
