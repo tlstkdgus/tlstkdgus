@@ -59,7 +59,7 @@
 
 - **이름** : 신상현  
 - **최종 학력** : 한국외국어대학교 Global Business & Technology / 한국외국어대학교 AI 융합전공 Software & AI 트랙
-- **현 소속** : 멋쟁이사자처럼 에듀비즈니스본부 유니브사업 Group 커뮤니티팀
+- **현 소속** : 프리랜서
 - **Location** : Seoul, South Korea  
 - **Tel** : 010-9194-5840  
 
@@ -94,7 +94,7 @@
 ## 💼 Activities
 
 ## 2026
-- 멋쟁이사자처럼 에듀비즈니스본부 유니브사업 Group 커뮤니티팀 **커뮤니티 매니저 Intern**
+- 멋쟁이사자처럼 유니브Group 유니브 1팀 **커뮤니티 매니저 Intern**
 - SSAFY 15기 - **JAVA(비전공) track**
 - 에어비앤비 청소 매칭 플랫폼 CleanB - **PM, 디자인, FE**
 
