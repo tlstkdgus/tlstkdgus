@@ -33,11 +33,7 @@
 
 <br/>
 
-<div align="center">
-	<a href="https://github.com/tlstkdgus">
-  		[![상태바](https://aline.team/git-profile?type=STATUS_BAR&theme=light&lang=ko&sharedCode=f24c0057-d324-4055-93a6-9476191d89d0)](https://aline.team)
-	</a>
-</div>
+
 
 <br/>
 
