@@ -35,7 +35,7 @@
 
 <div align="center">
 	<a href="https://github.com/tlstkdgus">
-  		<img src="https://github-readme-activity-graph.vercel.app/graph?username=tlstkdgus&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
+  		[![상태바](https://aline.team/git-profile?type=STATUS_BAR&theme=light&lang=ko&sharedCode=f24c0057-d324-4055-93a6-9476191d89d0)](https://aline.team)
 	</a>
 </div>
 
